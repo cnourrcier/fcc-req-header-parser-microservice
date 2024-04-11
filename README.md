@@ -1,4 +1,4 @@
-# Timestamp Microservice
+# Request Header Parser Microservice
 
 This is my Request Header Parser Microservice Project for freecodecamp.org. I used the provided [boilerplate](https://github.com/freeCodeCamp/boilerplate-project-headerparser/) to complete this challenge. The test requirements can be found [here](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice).
 
